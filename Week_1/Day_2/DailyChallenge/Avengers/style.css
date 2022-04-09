@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://cdn-cf-east.streamable.com/image/khq11.jpg?Expires=1649211660&Signature=OAAMPLI~9atRrwZ-33QSotDhyN6aXZn6r27uoQMbg0aK2HD9R7ZsmouJSltNmUdFmdxiINnzsyErp3s3Uhem6E5Ah2xc1m8FONuo-DQWSUpJQjtqxwWbyK1nFMKkxkQBLVjp~XPJ6rj4inwioptzFrsrz9hljWMq~kRf9cuOrAU3NfsDknWnENZvngZegn0eh3i8FkGhtlos9uT~1AqKO5qbV3lF4~oX9EwOxuaGT06fTAiflii9kPgLBDzFRiRr04VrjAICzPZMfr9mCMXltv6TMDLkEBkoYSeDmzBK5xlev~IBElkOlGc-MeKFqx015LuIUSqYlpj6ajEjXlw~bQ__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ);
+    background-size: cover;
+}
+
+a href {
+    list-style: none;
+    display: inline-block;
+	text-align: right ;
+	color: aliceblue;
+}
+
+h1 {
+    color: cornsilk;
+	display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h2 {
+    color: aliceblue;
+	display: block;
+    font-size: 1.0em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p {
+    color:lavenderblush;
+	display: block;
+    font-size: 0.7em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
